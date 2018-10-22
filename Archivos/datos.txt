@@ -1,0 +1,11 @@
+IO (T) - 2H - aula 1 - Año 1
+IO (P) - 4H - aula 2 - Año 1
+SO (T) - 3H - aula 1 - Año 1
+SO (P) - 3H - aula 2 - Año 1
+L (T) - 3H - aula 2 - Año 1
+L (P) - 3H - aula 1 - Año 1
+FEYPI (T/P) - 3H - aula 2 - Año 2
+C (T) - 3H - aula 2 - Año 2
+C (P) - 3H - aula 1 - Año 2
+D (T) - 3H - aula 2 - Año 2
+D (P) - 2H - aula 1 - Año 2

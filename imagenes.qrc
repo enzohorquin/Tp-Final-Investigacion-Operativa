@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagenes/template.png</file>
+        <file>Imagenes/vacio.png</file>
+        <file>Imagenes/blanco.png</file>
+        <file>Imagenes/dia.png</file>
+        <file>Imagenes/medio.png</file>
+        <file>Imagenes/inicio.png</file>
+        <file>Imagenes/fin.png</file>
+        <file>Imagenes/finOcupado.png</file>
+        <file>Imagenes/Icono.jpg</file>
+        <file>Imagenes/propiedades.png</file>
+        <file>Imagenes/menu.jpg</file>
+        <file>Imagenes/tick.png</file>
+        <file>Imagenes/papelera.jpg</file>
+        <file>Imagenes/Si.png</file>
+    </qresource>
+</RCC>
